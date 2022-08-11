@@ -1,6 +1,5 @@
 
 <x-layout>
-@include('partials._search')
 
 <div class="mx-4">
 <x-card class="p-10">
