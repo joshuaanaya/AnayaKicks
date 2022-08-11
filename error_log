@@ -1,0 +1,6 @@
+[11-Aug-2022 02:46:07 UTC] PHP Warning:  require(/home/doeeyede/public_htmlvendor/autoload.php): Failed to open stream: No such file or directory in /home/doeeyede/public_html/index.php on line 34
+[11-Aug-2022 02:46:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/doeeyede/public_htmlvendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/doeeyede/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/doeeyede/public_html/index.php on line 34
+[11-Aug-2022 17:17:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/doeeyede/public_html/storage/framework/views/3d3cc24b60c604ec34d6ea0de45c059f8d616dd4.php on line 119
