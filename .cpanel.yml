@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH= /home/doeeyede/public_html/
-    - /bin/cp -R ../AnayaKicks $DEPLOYPATH
+    - /bin/cp -R resources $DEPLOYPATH
